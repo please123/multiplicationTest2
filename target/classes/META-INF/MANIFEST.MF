@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: social-multiplication-v3
+Implementation-Version: 0.3.0-SNAPSHOT
+Built-By: USER
+Implementation-Vendor-Id: microservices.book
+Build-Jdk: 1.8.0_181-1-ojdkbuild
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/social-multiplication-v3
+Created-By: Maven Integration for Eclipse
+
