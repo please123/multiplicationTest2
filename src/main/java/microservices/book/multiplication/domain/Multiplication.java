@@ -20,6 +20,6 @@ public final class Multiplication {
 
   // JSON (역)직렬화를 위한 빈 생성자
   Multiplication() {
-    this(0, 0);
+    this(0, 0);           //생성자호출
   }
 }
